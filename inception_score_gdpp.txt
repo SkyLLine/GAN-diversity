@@ -1,0 +1,1 @@
+Evaluation Inception Score: 1.07 +/- 0.00
